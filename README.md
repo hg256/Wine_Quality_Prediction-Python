@@ -14,8 +14,8 @@ Attribute Information: The data set includes information about:
 
 Input variables (based on physicochemical tests):
 
-1 - fixed acidity
-2 - volatile acidity
+<li> 1 - fixed acidity
+<li> 2 - volatile acidity
 3 - citric acid
 4 - residual sugar
 5 - chlorides
