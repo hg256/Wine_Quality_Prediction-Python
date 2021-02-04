@@ -16,16 +16,17 @@ Input variables (based on physicochemical tests):
 
 <li> 1 - fixed acidity
 <li> 2 - volatile acidity
-3 - citric acid
-4 - residual sugar
-5 - chlorides
-6 - free sulfur dioxide
-7 - total sulfur dioxide
-8 - density
-9 - pH
-10 - sulphates
-11 – alcohol
-12- Wine_Type (red or wine)
+<li> 3 - citric acid
+<li> 4 - residual sugar
+<li> 5 - chlorides
+<li> 6 - free sulfur dioxide
+<li> 7 - total sulfur dioxide
+<li> 8 - density
+<li> 9 - pH
+<li> 10 - sulphates
+<li> 11 – alcohol
+<li> 12- Wine_Type (red or wine)
+
 Output variable (based on sensory data):
 
-13 - quality (score between 0 and 10)
+<li> 13 - quality (score between 0 and 10)
